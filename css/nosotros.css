@@ -1,0 +1,74 @@
+/*Titulos de Quienes somos*/
+.container-info-enlace .nosotros h1 {
+    display: flex;
+    color: #ffffff;
+    justify-content: center;
+    background-color: #0b9292;
+    border-radius: 10px;
+    font-size: 35px;
+
+}
+
+/* imagen de quienes somos*/
+.container-info-enlace .nosotros img {
+    display: flex;
+    padding: 10px;
+    width: 300px;
+    background-color: rgb(26, 109, 134);
+    justify-content: center;
+    background-position: center;
+
+}
+
+/*cuerpo de Quienes somos*/
+.container-info-enlace .nosotros p {
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    border-radius: 10px;
+    width: 100%;
+}
+
+/*marcar lo más importante de todo el articulo*/
+.container-info-enlace .Nosotros p b {
+    color: rgb(117, 30, 27);
+
+}
+
+.container-info-enlace .nosotros h {
+    display: flex;
+    padding: 10px;
+    font-size: 30px;
+    justify-content: center;
+    color: #000000;
+}
+
+/*Titulo de Aprender*/
+.container-info-enlace .Aprender h1 {
+    display: flex;
+    background-color: #07464a;
+    justify-content: center;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 35px;
+}
+
+/*cuerpo de Aprender*/
+.container-info-enlace .Aprender p {
+   
+    color: #000000;
+    padding: 8px;
+    border-radius: 10px;
+    width: 100%;
+}
+
+/* imagenen de Aprender*/
+.container-info-enlace .Aprender img {
+    display: flex;
+    padding: 10px;
+    width: 400px;
+    background-color: rgba(9, 97, 97, 0.986);
+    justify-content: center;
+    background-position: center;
+
+
+}
